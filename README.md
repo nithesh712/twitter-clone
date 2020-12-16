@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+checkout the app in this link - https://twitter-clone-2ad06.web.app
 
 ### `yarn start`
 
